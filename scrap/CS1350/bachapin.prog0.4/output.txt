@@ -1,0 +1,42 @@
+Making list One...Complete!
+List One: 14 List is not full!
+75   72   29   83   20   27   73   14   73   43   92   28
+56   88   
+Making list Two...Complete!
+List Two: 14 List is not full!
+75   72   29   83   20   27   73   14   73   43   92   28
+56   88   
+Making list Three...Complete!
+List Three: 100 List is full!
+35   23   88   98   76   33   25   77   58   26   83   64
+31   55   45   21   85   72   77   92   17   41   62   94
+31   83   75   33   97   70   64   85   42   47   39   73
+59   66   13   40   76   42   75   59   21   63   56   48
+50   23   55   30   74   56   24   98   82   37   80   73
+90   85   18   85   98   50   60   73   15   94   49   70
+95   92   86   17   23   20   53   98   81   26   95   50
+41   72   69   58   91   52   10   39   51   39   71   86
+83   34   12   34   
+Enter a number 10 to 99 to search for, and remove: 91
+Removing value from list One.
+There were 0 occurances of 91 that were removed.
+Your new list length is 14
+Removing value from list Two.
+There were 0 occurances of 91 that were removed.
+Your new list length is 14
+Removing value from list Three.
+There were 1 occurances of 91 that were removed.
+Your new list length is 99
+Enter an element that you would like to see the value of: 13
+List One has value 56 at position 13.
+List Two has value 56 at position 13.
+List Three has value 31 at position 13.
+The maximum number of elements that can fit in the list is 100
+List is empty!
+List is not empty!
+List is empty!
+
+75   72   29   83   20   27   73   14   73   43   92   28
+56   88   
+
+This concludes tests of each list, and the list class. Goodbye.

@@ -1,0 +1,91 @@
+// to be the empty list
+list::list()
+{
+	head = NULL;		// list is empty
+ 	current = NULL;		// to be safe initialize current
+ 	previous = NULL;	// & previous
+}
+
+// Add a new item to the end of the list
+void list::append(const element &item)
+{
+
+ 	if (empty()) // then make a new node and point head at it
+	{
+  		head = new list_node;
+		head->put_item(item);
+		head->put_next(NULL);
+	}
+ 	else // must find end of list and addd new item
+ 	{
+ 		current = head;	// start at beginning of list
+
+		// not at end of list keep moving
+ 		while (current->get_next() != NULL)
+ 			move_to_next();
+
+		// now current points at last node in list
+		// make next field point to a new node
+ 		current->put_next(new list_node);
+
+		// make current point to new node
+		move_to_next();
+
+		// set current node to new value 
+		current->put_item(item);
+
+		// mark new node as last node in list
+		current->put_next(NULL);
+ 	}
+}
+ 
+// print list 5 item per line
+void list::print()
+{
+	int count = 1;	// keep track of number of data
+	current = head;	// begin at start of list
+	cout << endl;	// start on a new line on the screen
+	
+	// as long as there are more nodes
+	while (current != NULL)
+	{
+		// decide when to print an end of line
+		if (count++ % 5 != 0)
+			 cout << setw(14) << current->get_item();
+		else
+			 cout << setw(14) << current->get_item() << endl;
+		move_to_next();
+	}
+	current = head; // reset current
+}
+
+
+// Implement utility functions
+// Test for empty list
+boolean list::empty()
+{
+ 	return head == NULL;  // if head is NULL, list is empty
+}
+
+// Test for end of list 
+boolean list::at_end()
+{
+	// if list is empty, must be at end OR
+	// if current point to last node then at end of list
+ 	return ((head == NULL) || ((current != NULL) &&
+		(current->get_next() == NULL)));
+}
+ 
+void list::move_to_next()
+{
+	// check current so that illegal reference is not made
+ 	if (current != NULL)
+ 	{
+  		current = current->get_next();	// advance cuurent
+ 	}
+}
+ 
+
+// End of file linked_list.cpp
+
+

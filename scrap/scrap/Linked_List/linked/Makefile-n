@@ -1,0 +1,1 @@
+program : ; g++ test_node.cpp list_node.cpp -o test_node;

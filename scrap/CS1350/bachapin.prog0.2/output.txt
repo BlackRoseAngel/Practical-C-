@@ -1,0 +1,4 @@
+There are 957 elements in the array.
+The sum of the array is 488168.
+The mean of the array is 510.
+The standard deviation of the array is 290.462.

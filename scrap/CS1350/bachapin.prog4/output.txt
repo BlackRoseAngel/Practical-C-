@@ -1,0 +1,167 @@
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 7
+Stack is now full.
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 6
+The stack is full.
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 8
+The stack has been emptied!
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 5
+The stack is empty.
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 1
+Please input a positive integer: 100
+Input accepted!
+StackA Size: 1 StackB Size: 0 Total Stack Size: 1
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 1
+Please input a positive integer: 200
+Input accepted!
+StackA Size: 2 StackB Size: 0 Total Stack Size: 2
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 1
+Please input a positive integer: 300
+Input accepted!
+StackA Size: 3 StackB Size: 0 Total Stack Size: 3
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 1
+Please input a positive integer: 1000
+Input accepted!
+StackA Size: 3 StackB Size: 1 Total Stack Size: 4
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 1
+Please input a positive integer: 2000
+Input accepted!
+StackA Size: 3 StackB Size: 2 Total Stack Size: 5
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 2
+Please enter which stack you want to pop a or b: a
+StackA Size: 2 StackB Size: 2 Total Stack Size: 4
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 3
+Please enter which stack you want the size to a, b, or t(total): t
+Total Stack Size: 4
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: Please enter which stack you would like output a or b: a
+200 @ pos. 1
+100 @ pos. 0
+
+0.Quit
+1.Push Number
+2.Pop Number
+3.Get Stack Size
+4.Output Stack
+5.Test(Empty)
+6.Test(Full)
+7.AutoFill
+8.Empty List
+Please enter your choice: 0
