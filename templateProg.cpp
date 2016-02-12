@@ -4,8 +4,6 @@
 
 * Created: 
 
-* Due Date:
-
 * Version:
 
 * Creator: Brett Chapin(bachapin)
