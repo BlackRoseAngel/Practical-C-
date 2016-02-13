@@ -1,26 +1,23 @@
 /**************************************************************************
 
-* Program: Hello World
+* Program: Hello
 
-* Created: 11.2.2016 ; Modified: 11.2.2016
+* Created: 12.2.16 ; Modified: 12.2.16
 
-* Version: 1.0
+* Version: 0.0
 
 * Creator: Brett Chapin(bachapin)
 
-* Purpose: This is a simple Hello World program that outputs "Hello World!"
+* Purpose: This is Exercise 2-1 from Practical C++
 
 **************************************************************************/
 #include <iostream>
-#include <iomanip>
-#include <string>
-#include <fstream>
-#include <cmath>
 
 using namespace std;
 
 int main()
 {
    cout << "Hello World!" << endl;
+  
    return(0);
 } //end main()
