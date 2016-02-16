@@ -9,7 +9,9 @@
 * Creator: Brett Chapin(bachapin)
 
 * Purpose: This is exercise 5-6 from Practical C++
-  
+  Write a program that takes an integer as the number of minutes and
+  outputs the total number of hours and minutes (e.g., 90 minutes = 1 hour
+  30 minutes)
 
 **************************************************************************/
 #include <iostream>
