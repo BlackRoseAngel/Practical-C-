@@ -21,7 +21,7 @@ int main()
 {
   
   cout << "Hello World!" << endl;
-  system("date.sh");
+  system("./date.sh");
   cout << "Running script." << endl;
 
   return(0);
