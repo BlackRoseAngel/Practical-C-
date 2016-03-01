@@ -1,2 +1,3 @@
 #!/bin/bash
-date > currentDate.txt
+date +"%B %d, %Y"
+date +"%l:%M:%S"
