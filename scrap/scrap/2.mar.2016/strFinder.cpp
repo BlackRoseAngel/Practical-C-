@@ -20,6 +20,26 @@ using namespace std;
 
 int main()
 {
+  string usrInput;
+  string search;
+  
+  cout << "Please input some words: ";
+  getline(cin, usrInput);
+  
+  cout << "Please input a word to search for: ";
+  cin >> search;
+  
+  for (int x = 0; x < usrInput.length(); x++)
+  {
+    int y = 0;
+    if (usrInput[x] == search[y]) {
+      
+      y++;
+    }
+  }
+  
+  cout << usrInput << endl;
+  cout << search << endl;
   
 
   return(0);
