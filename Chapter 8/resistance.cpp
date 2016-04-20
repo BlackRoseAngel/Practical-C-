@@ -14,6 +14,7 @@
 
 **************************************************************************/
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -22,6 +23,7 @@ int gcd(int a, int b);
 int main()
 {
   int x, y, hcf, lcm;
+  string strX, strY;
   
   cout << "Enter two integers: ";
   cin >> x >> y;
@@ -29,8 +31,11 @@ int main()
   hcf = gcd(x, y);
   lcm = (x*y)/hcf;
   
-  cout << "Greatest common divisor of " << x << " and " << y << " is " << hcf << endl;
-  cout << "Least common multiple of " << x << " and " << y << " is " << lcm << endl;
+  strX = to_string(x);
+  strY = to_string(y);
+  
+  cout << "Greatest common divisor of " << strX << " and " << strY << " is " << hcf << endl;
+  cout << "Least common multiple of " << strX << " and " << strY << " is " << lcm << endl;
 
   return(0);
 } //end main()
