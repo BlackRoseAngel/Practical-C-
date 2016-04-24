@@ -1,12 +1,12 @@
 /**************************************************************************
 
-* Header File: 
+* Header File: Work Database(header)
 
-* Created: 
+* Created: 25.5.2015
 
-* Version: 
+* Version: 0.1
 
-* Creator: Brett Chapin(bachapin)
+* Creator: Brett Chapin
 
 **************************************************************************/
 #ifndef 
