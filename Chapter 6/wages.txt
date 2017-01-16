@@ -1,0 +1,4 @@
+How many hours did the employee work? 50
+How much (per hour) does employee make? 12.35
+You worked 10.00 overtime hours this week.
+You worked 50.00 at $12.35 per hour, making $679.25 this week.

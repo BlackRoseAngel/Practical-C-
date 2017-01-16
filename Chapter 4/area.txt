@@ -1,0 +1,2 @@
+The area of the rectangle is 15
+The perimeter of the rectangle is 16

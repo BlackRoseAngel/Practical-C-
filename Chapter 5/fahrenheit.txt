@@ -1,0 +1,2 @@
+Please input a temperature in Celsius: 100
+100 degrees Celsius is 212 degrees Fahrenheit.

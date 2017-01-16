@@ -21,12 +21,12 @@ using namespace std;
 const float kilometers = 1.60934;
 const float liters = 3.78541;
 
-float convFeet(float feet);
-float convMiles(float miles);
-float convGallons(float gallons);
-float convCups(float cups);
-float convPounds(float pounds);
-float convDollars(float dollars);
+void convFeet(float feet);
+void convMiles(float miles);
+void convGallons(float gallons);
+void convCups(float cups);
+void convPounds(float pounds);
+void convDollars(float dollars);
 
 int main()
 {
@@ -78,7 +78,7 @@ int main()
   return(0);
 } //end main()
 
-float convFeet(float feet)
+void convFeet(float feet)
 {
   const float convert = 0.3048;
   float meters = feet * convert;
@@ -87,7 +87,7 @@ float convFeet(float feet)
   
 } //end convFeet()
 
-float convMiles(float miles)
+void convMiles(float miles)
 {
   const float convert = 1.60934;
   float kilometers = miles * convert;
@@ -96,7 +96,7 @@ float convMiles(float miles)
   
 }
 
-float convGallons(float gallons)
+void convGallons(float gallons)
 {
   const float convert = 3.78541;
   float liters = gallons * convert;
@@ -105,7 +105,7 @@ float convGallons(float gallons)
   
 }
 
-float convCups(float cups)
+void convCups(float cups)
 {
   const float convert = 0.236588;
   float liters = cups * convert;
@@ -114,7 +114,7 @@ float convCups(float cups)
   
 }
 
-float convPounds(float pounds)
+void convPounds(float pounds)
 {
   const float convert = 0.453592;
   float kilograms = pounds * convert;
@@ -123,7 +123,7 @@ float convPounds(float pounds)
   
 }
 
-float convDollars(float dollars)
+void convDollars(float dollars)
 {
   const float convert = 0.70;
   float pounds = dollars * convert;

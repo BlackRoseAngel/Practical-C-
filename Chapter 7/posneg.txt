@@ -1,0 +1,18 @@
+Enter a series of numbers to calculate how many you enter that are positive or negative.
+Enter 0 to end the program.
+Enter a number: 7
+Enter a number: 88
+Enter a number: 92
+Enter a number: 54
+Enter a number: -101
+Enter a number: -276
+Enter a number: -39
+Enter a number: -76
+Enter a number: 22
+Enter a number: 93
+Enter a number: -8
+Enter a number: 1
+Enter a number: 6
+Enter a number: 0
+You entered 8 positive numbers.
+You entered 5 negative numbers.

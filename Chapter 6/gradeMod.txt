@@ -1,0 +1,2 @@
+Please enter the percentage the student recieved: 92
+The student has a letter grade of A-.

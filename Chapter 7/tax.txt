@@ -1,0 +1,2 @@
+Please input the total of your purchase: 1500.00
+Your total with 8% tax: $1726.92

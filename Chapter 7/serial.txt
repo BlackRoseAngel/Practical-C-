@@ -1,0 +1,8 @@
+Please enter the data you would like the calculation performed on (using this format ### DS):
+	1024 M
+M
+1073741824
+21 seconds.
+12 days.
+41 minutes.
+22 hours.

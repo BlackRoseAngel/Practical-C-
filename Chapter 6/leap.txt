@@ -1,0 +1,5 @@
+Please input a year: 2000
+2000 is a leap year.
+
+Please input a year: 2015
+2015 is not a leap year.

@@ -41,9 +41,9 @@ int main()
     
   } while(stop == false);
   
-  output = runTotal / count;
+  output = runTotal / (count - 1);
   
-  cout << "You entered " << count << " numbers, that average to " << output << endl;
+  cout << "You entered " << (count - 1) << " numbers, that average to " << output << endl;
 
   return(0);
 } //end main()

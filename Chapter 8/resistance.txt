@@ -1,0 +1,4 @@
+Please input the denominator for the resistance of your circuit (0 terminates): 400
+Please enter another resistance: 200
+Please enter another resistance: 0
+This resistance of your parallel circuits is 133.3

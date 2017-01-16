@@ -1,0 +1,8 @@
+This program will average a range of numbers.
+Please enter 0 to quit.
+Number? 22
+Number? 37
+Number? 8
+Number? 12
+Number? 0
+You entered 4 numbers, that average to 19

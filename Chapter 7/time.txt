@@ -1,0 +1,3 @@
+Please enter the first date (following this format: MM DD YYYY): 10 17 1989
+Please enter the date to compare: 1 5 2015
+There is 9211 day(s) between October 17, 1989 and January 5, 2015

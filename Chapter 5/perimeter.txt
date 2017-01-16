@@ -1,0 +1,3 @@
+Please input the width of the rectangle: 5
+Please input the length of the rectangle: 10
+The perimeter of the rectangle is 30

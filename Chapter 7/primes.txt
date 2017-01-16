@@ -1,0 +1,5 @@
+Please enter a number to test to see if its a prime: 7
+7 is a prime number.
+
+Please enter a number to test to see if its a prime: 8
+8 is not a prime number.

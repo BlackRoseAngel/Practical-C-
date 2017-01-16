@@ -1,0 +1,74 @@
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 1
+Please input the number of feet you would like covnerted: 10
+10 feet equal 3.048 meters.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 2
+Please input the number of miles you would like converted: 10
+10 miles equal 16.0934 kilometers.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 3
+Please input the number of gallons you would like converted: 5
+5 gallons equal 18.927 liters.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 4
+Please input the number of cups you would like converted: 10
+10 cups equal 2.36588 liters.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 5
+Plesae input the number of pounds you would like converted: 10
+10 pounds equal 4.53592 kilograms.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 6
+Please input the number of dollars you would like converted: 20
+20 dollars equal 14 pounds.
+
+0. Quit
+1. Feet to Meters
+2. Miles to Kilometers
+3. Gallons to Liters
+4. Cups to Liters
+5. Pounds to Kilograms
+6. Dollars to Pounds
+Please enter the option you'd like: 0

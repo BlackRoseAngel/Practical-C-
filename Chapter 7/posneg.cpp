@@ -19,7 +19,7 @@ using namespace std;
 
 int main()
 {
-  int posNums, negNums, usrInput;
+  int posNums = 0, negNums = 0, usrInput = 0;
   bool end;
   
   cout << "Enter a series of numbers to calculate how many you enter that are positive or negative.\n"
