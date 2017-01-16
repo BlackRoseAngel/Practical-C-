@@ -1,0 +1,4 @@
+Please enter a character: e
+e is a vowel.
+Please enter a character: z
+z is a consonant.
