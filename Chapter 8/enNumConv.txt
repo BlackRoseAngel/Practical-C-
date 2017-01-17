@@ -1,0 +1,8 @@
+Please enter a number 0 to 100: 6
+Six
+Please enter a number 0 to 100: 10
+Ten
+Please enter a number 0 to 100: 53
+Fifty-three
+Please enter a number 0 to 100: 100
+One hundred
