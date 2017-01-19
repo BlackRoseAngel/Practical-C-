@@ -1,0 +1,6 @@
+Please enter two strings to compare to see if the second string contains the first: seven seventy-five
+String: seventy-five does contain String: seven
+Please enter two strings to compare to see if the second string contains the first: hell Hello
+String: Hello does contain String: hell
+Please enter two strings to compare to see if the second string contains the first: tomorrow today
+String: today does not contain String: tomorrow
