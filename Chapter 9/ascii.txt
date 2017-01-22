@@ -1,0 +1,2 @@
+Please input a string to find the Primitive Hash: Abcde12345
+The hash of Abcde12345 is 718
