@@ -1,0 +1,15 @@
+1. Success
+2. Warning
+3. Error
+Please select an option: 1
+RETURN_SUCCESS
+1. Success
+2. Warning
+3. Error
+Please select an option: 2
+RETURN_WARNING
+1. Success
+2. Warning
+3. Error
+Please select an option: 3
+RETURN_ERROR
